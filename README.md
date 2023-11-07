@@ -1,4 +1,9 @@
 # Bridge Race Clone
+
+
+https://github.com/Enes-Doganay/BridgeRaceClone/assets/71710802/beba5d9f-b715-4509-802a-f80e49f01529
+
+
 # Game Description
 This game is a clone of the popular "Bridge Race" game with a hyper casual twist. Players collect bricks in their own colors to build a bridge. The goal of the game is to construct the bridge and complete the race as quickly as possible. It is played on mobile devices using an invisible joystick controller.
 
